@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <!-- new: load app.js as a module is not needed; defer keeps order and waits for DOM -->
+    <script src="app.js" defer></script>
+    <title>Michee Lifetu | Portfolio</title>
+</head>
+<body data-page="home"> <!-- new: data attributes used by app.js to know which page is loading -->
+    <div class="container">
+        <nav id="myTopnav" class="topnav">
+            <a href="index.html" class="active">Home</a>
+            <a href="index.html#about">About</a>
+            <a href="cv.html">CV</a>
+            <a href="index.html#contact">Contact</a>
+            <a href="javascript:void(0);" class="icon" id="navToggle">&#9776;</a>
+        </nav>
+
+        <!-- new: cinematic hero section with a canvas particle layer behind the text -->
+        <header id="home" class="hero">
+            <canvas id="particles" class="hero-canvas"></canvas>
+            <div class="hero-content">
+                <h1 id="heroName" class="reveal-up"></h1>
+                <p id="heroTitle" class="reveal-up"></p>
+                <p id="heroTagline" class="tagline reveal-up"></p>
+            </div>
+        </header>
+
+        <section id="about" class="about reveal">
+            <h2>About Me</h2>
+            <p id="aboutText"></p>
+        </section>
+
+        <footer id="contact" class="reveal">
+            <p id="contactLine"></p>
+            <p id="contactAddress"></p>
+        </footer>
+    </div>
+</body>
+</html>

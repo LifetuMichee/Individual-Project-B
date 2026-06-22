@@ -1,0 +1,42 @@
+{
+  "name": "Michee Likanda Lifetu",
+  "title": "Computer Science Student & IT/Accounting Intern",
+  "tagline": "A portfolio showcasing my skills, experience, and CV details for future employers and collaborators.",
+  "about": "I am a motivated and adaptable individual with a strong interest in technology and accounting, supported by hands-on internship experience as an IT instructor. I am a quick learner, a good team player, and confident using Microsoft Windows and related applications. I am eager to continue developing my skills through further education and practical experience.",
+  "skills": [
+    "Computer Science",
+    "Accounting Support",
+    "Microsoft Windows",
+    "IT Instruction",
+    "Teamwork",
+    "Quick Learner"
+  ],
+  "education": [
+    {
+      "title": "B.Sc. (Hons) Computer Science",
+      "place": "Lancaster University Leipzig, Germany",
+      "dates": "Jan 2026 – Present"
+    },
+    {
+      "title": "IGCSE (Private Candidate)",
+      "place": "Botswana Examination Council, Gaborone, Botswana",
+      "dates": "Jan 2023 – Nov 2024"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Internship – IT & Accounting Assistant",
+      "place": "Fairview Grace Academy, Gaborone, Botswana",
+      "dates": "Jan 2024 – Mar 2024"
+    }
+  ],
+  "interests": [
+    "French (mother tongue), English",
+    "Playing basketball and football"
+  ],
+  "contact": {
+    "phone": "+4917669058655",
+    "email": "lifetumichee@gmail.com",
+    "address": "Lumya Living, Kurt Schumacher Straße 50, Leipzig, 04105, Germany"
+  }
+}
