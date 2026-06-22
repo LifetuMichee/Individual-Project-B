@@ -1,0 +1,8 @@
+New-learning comment count
+==========================
+index.html   : 3
+cv.html      : 0
+style.css    : 6
+app.js       : 14
+--------------------------
+TOTAL        : 23
