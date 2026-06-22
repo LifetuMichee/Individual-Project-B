@@ -29,6 +29,7 @@ Opening `index.html` by double-clicking will leave the content blank, because `f
 
 ## AI tools used
 - **Claude (Anthropic)** — co-developed the website code (HTML, CSS, JavaScript, JSON, Bash).
+- **GitHub Copilot (GPT-5.4 mini)** — used for project updates, file edits, and repository tasks.
 
 ## Third-party libraries
 None — the particle hero and animations are written in plain JavaScript.
